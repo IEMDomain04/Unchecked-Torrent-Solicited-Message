@@ -1,5 +1,5 @@
 import pyautogui
 import time
 while True:
-    pyautogui.typewrite('Logic Design')
+    pyautogui.typewrite('Message')
     pyautogui.press('enter')
